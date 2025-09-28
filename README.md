@@ -24,10 +24,9 @@ Este prototipo responde al problema al:
 
 ---
 
-Instrucciones de ejecución
-1. Asegúrate de tener **Python 3.9+** instalado.  
-2. Descarga el repositorio y abre la carpeta.  
-3. Ejecuta el programa con:  
+Instrucciones de ejecución.  
+1. Descarga el repositorio y abre la carpeta.  
+2. Ejecuta el programa con:  
    ```bash
    python main.py
 
@@ -67,3 +66,4 @@ Repositorio en GitHub con control de versiones.
 Enlace al repositorio
 
 https://github.com/jgonzalez212020-afk/prototipo_fase2
+
